@@ -1,4 +1,3 @@
-import pickle
 class door:
 	def __init__(self, name, dir, doorLocked = False):
 		self.name = name
